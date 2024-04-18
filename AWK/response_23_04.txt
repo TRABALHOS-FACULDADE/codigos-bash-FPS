@@ -1,0 +1,32 @@
+Soma das colunas na data 2023-11-01: 340118
+Soma das colunas na data 2023-11-02: 680236
+Soma das colunas na data 2023-11-03: 1020354
+Soma das colunas na data 2023-11-04: 1360642
+Soma das colunas na data 2023-11-05: 1700930
+Soma das colunas na data 2023-11-06: 2041218
+Soma das colunas na data 2023-11-07: 2381506
+Soma das colunas na data 2023-11-08: 2721794
+Soma das colunas na data 2023-11-09: 3062082
+Soma das colunas na data 2023-11-10: 3402370
+Soma das colunas na data 2023-11-11: 3742965
+Soma das colunas na data 2023-11-12: 4083560
+Soma das colunas na data 2023-11-13: 4424155
+Soma das colunas na data 2023-11-14: 4764750
+Soma das colunas na data 2023-11-15: 5105345
+Soma das colunas na data 2023-11-16: 5445940
+Soma das colunas na data 2023-11-17: 5786535
+Soma das colunas na data 2023-11-18: 6127560
+Soma das colunas na data 2023-11-19: 6468585
+Soma das colunas na data 2023-11-20: 6809610
+Soma das colunas na data 2023-11-21: 7150635
+Soma das colunas na data 2023-11-22: 7491660
+Soma das colunas na data 2023-11-23: 7832685
+Soma das colunas na data 2023-11-24: 8173710
+Soma das colunas na data 2023-11-25: 8515326
+Soma das colunas na data 2023-11-26: 8856942
+Soma das colunas na data 2023-11-27: 9198558
+Soma das colunas na data 2023-11-28: 9540174
+Soma das colunas na data 2023-11-29: 9881790
+Soma das colunas na data 2023-11-30: 10223406
+
+Soma TOTAL das colunas: 158335141
