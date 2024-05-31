@@ -1,0 +1,1668 @@
+
+Município: Vitória da Conquista
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 5
+
+Município: Ourolândia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Luís Eduardo Magalhães
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Milagres
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Érico Cardoso
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: São Sebastião do Passé
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Sento Sé
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Gandu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Pedro Alexandre
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Una
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Serra Dourada
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Catu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itarantim
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Ibirapuã
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Brotas de Macaúbas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ibicoara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ibipeba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ibirataia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Brumado
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Baianópolis
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Poções
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 3
+
+Município: Capela do Alto Alegre
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Caravelas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mucuri
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Igaporã
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Malhada de Pedras
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itaquara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Pindobaçu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Valente
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ubaitaba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Vereda
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Medeiros Neto
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Encruzilhada
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: João Dourado
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ilhéus
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Conceição da Feira
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Conceição do Almeida
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itanhém
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ibiquera
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itiruçu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Antas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Nova Ibiá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Muritiba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Souto Soares
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cairu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Lajedo do Tabocal
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Salvador
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 37
+
+Município: Prado
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Wenceslau Guimarães
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Santa Cruz da Vitória
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Casa Nova
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Canápolis
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Valença
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Retirolândia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Heliópolis
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Gentio do Ouro
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Maraú
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Camaçari
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 5
+
+Município: Belmonte
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Potiraguá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Paramirim
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Antônio Gonçalves
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ibicaraí
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Quixabeira
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Tapiramutá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jandaíra
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ribeira do Pombal
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Bom Jesus da Lapa
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 3
+
+Município: Teodoro Sampaio
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Buerarema
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itacaré
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Licínio de Almeida
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Maiquinique
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Planaltino
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Filadélfia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Araçás
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ipupiara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Pintadas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Remanso
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: São Félix do Coribe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Candeal
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itororó
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Sebastião Laranjeiras
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ubaíra
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itamari
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jeremoabo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Capim Grosso
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Boninal
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Catolândia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Ichu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Gongogi
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Saubara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Barro Alto
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Salinas da Margarida
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Nova Redenção
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Elísio Medrado
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Irajuba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itajuípe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Andaraí
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Riachão do Jacuípe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Dias d'Ávila
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Ibotirama
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itapicuru
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Curaçá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Camamu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Canudos
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Castro Alves
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Dom Basílio
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itaeté
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Correntina
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: São Félix
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: São Miguel das Matas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mortugaba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ipirá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Novo Horizonte
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Simões Filho
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Coração de Maria
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Aratuípe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cordeiros
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Macarani
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mairi
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Cipó
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Nova Soure
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Maetinga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Carinhanha
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Barra do Mendes
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Rio de Contas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santa Rita de Cássia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Piatã
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Ibiassucê
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jaguarari
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ribeira do Amparo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Dom Macedo Costa
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ibicuí
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Riachão das Neves
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ponto Novo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Caém
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jaborandi
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Uauá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Aporá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mundo Novo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Serra Preta
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Governador Mangabeira
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Esplanada
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Queimadas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Barra do Rocha
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Nazaré
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Botuporã
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Nilo Peçanha
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Maracás
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Aramari
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Abaíra
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Rafael Jambeiro
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Tanquinho
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Malhada
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Baixa Grande
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Paripiranga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ipiaú
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santa Brígida
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santanópolis
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Caturama
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Palmeiras
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Várzea Nova
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Caetanos
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Igrapiúna
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Camacan
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Morro do Chapéu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Serrinha
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: São José do Jacuípe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jequié
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 8
+
+Município: Iramaia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Várzea do Poço
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Muquém do São Francisco
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Riacho de Santana
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Rio Real
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ribeirão do Largo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jacobina
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Inhambupe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Anguera
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Planalto
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Itagibá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mata de São João
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jaguaripe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Itaguaçu da Bahia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Irará
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 3
+
+Município: Ouriçangas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mulungu do Morro
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Itapitanga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jacaraci
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: São Domingos
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Guanambi
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Firmino Alves
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cravolândia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santaluz
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Conceição do Coité
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mirangaba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santa Bárbara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Olindina
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Rio do Pires
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Santa Inês
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Umburanas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Boquira
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 4
+
+Município: Contendas do Sincorá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Barrocas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Rodelas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Lamarão
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: São Felipe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Iraquara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Seabra
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Itapebi
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Abaré
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Caraíbas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santo Estêvão
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Serra do Ramalho
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Araci
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Aurelino Leal
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Porto Seguro
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 3
+
+Município: Laje
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Taperoá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itamaraju
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Senhor do Bonfim
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Santo Amaro
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Jaguaquara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Barra do Choça
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cansanção
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itapetinga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Campo Formoso
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Muniz Ferreira
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: São Francisco do Conde
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Lençóis
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Várzea da Roça
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Conde
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ipecaetá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cachoeira
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Urandi
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Canavieiras
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Sítio do Mato
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itagi
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Bom Jesus da Serra
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Livramento de Nossa Senhora
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Lajedinho
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Apuarema
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santa Luzia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Glória
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Guaratinga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santa Cruz Cabrália
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itatim
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Presidente Tancredo Neves
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Quijingue
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Santo Antônio de Jesus
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Barro Preto
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Arataca
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Utinga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Teolândia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Feira da Mata
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itanagra
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Anagé
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ibitiara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Bonito
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Acajutiba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Pindaí
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Barra da Estiva
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Banzaê
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itapé
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ituberá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Feira de Santana
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 16
+
+Município: Presidente Dutra
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Aiquara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Floresta Azul
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Piritiba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Presidente Jânio Quadros
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Iaçu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Crisópolis
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mansidão
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Entre Rios
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Tucano
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Nova Viçosa
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Condeúba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Mirante
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Paratinga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ibirapitanga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jiquiriçá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Cafarnaum
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Lauro de Freitas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 3
+
+Município: Tabocas do Brejo Velho
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ubatã
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Brejolândia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Lajedão
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Barra
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Formosa do Rio Preto
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Sobradinho
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Saúde
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Guajeru
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Nova Fátima
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Juazeiro
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Lapão
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Pilão Arcado
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itaparica
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Miguel Calmon
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Lagoa Real
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Nova Canaã
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Paulo Afonso
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Sátiro Dias
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Buritirama
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Sítio do Quinto
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Antônio Cardoso
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Matina
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Palmas de Monte Alto
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Barreiras
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Cabaceiras do Paraguaçu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Canarana
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Boa Nova
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Gavião
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Aracatu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Nordestina
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Monte Santo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Brejões
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ibipitanga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Irecê
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Campo Alegre de Lourdes
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itaberaba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 3
+
+Município: Wagner
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itaju do Colônia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Andorinha
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Jussiape
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itabuna
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Ibititá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Pau Brasil
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Serrolândia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Candiba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Varzedo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Piraí do Norte
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cruz das Almas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Cardeal da Silva
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Tanque Novo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Macururé
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Água Fria
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Macajuba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Vera Cruz
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Xique-Xique
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: São Desidério
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Almadina
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cândido Sales
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Teixeira de Freitas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Pedrão
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Maragogipe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itiúba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Morpará
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cotegipe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cícero Dantas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: São Gabriel
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santa Terezinha
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Piripá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Fátima
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Caatiba
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Rio do Antônio
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mascote
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Iguaí
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Caldeirão Grande
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Caetité
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 4
+
+Município: Coribe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Uruçuca
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Pojuca
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Adustina
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Macaúbas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Boa Vista do Tupim
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Candeias
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Manoel Vitorino
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ruy Barbosa
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cristópolis
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itagimirim
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Jucuruçu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itambé
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Sapeaçu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Lafaiete Coutinho
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Tremedal
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Terra Nova
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Madre de Deus
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: São José da Vitória
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Alagoinhas
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Alcobaça
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Euclides da Cunha
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Central
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Cocos
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Marcionílio Souza
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Teofilândia
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Eunápolis
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 2
+
+Município: Amargosa
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Coronel João Sá
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Caculé
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 3
+
+Município: Coaraci
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Mutuípe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Amélia Rodrigues
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jitaúna
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Conceição do Jacuípe
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santana
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Wanderley
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Angical
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Itabela
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Pé de Serra
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Iuiu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Santa Maria da Vitória
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jussara
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Nova Itarana
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Mucugê
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Oliveira dos Brejinhos
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Ituaçu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: América Dourada
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Biritinga
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Dário Meira
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Tanhaçu
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Jussari
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Chorrochó
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Uibaí
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
+
+Município: Novo Triunfo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: São Gonçalo dos Campos
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 0
+
+Município: Belo Campo
+Data com maior número de óbitos: 2023-12-31
+Total de óbitos: 1
