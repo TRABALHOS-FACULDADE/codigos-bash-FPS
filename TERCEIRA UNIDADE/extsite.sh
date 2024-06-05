@@ -1,12 +1,12 @@
 #!/bin/bash
 
 ### Data: 30/05/2024
-### Discente: Felipe Azevedo Ribeiro
-### Docente: José Marivaldo de Aragão Silva
+### Discente: Felipe Ribeiro
+### Docente: José Aragão
 
 version="1.0.0"
 
-dialog  --msgbox   "Bem vindo(a) ao portal PokéMothim CLI!\nDesenvolvido por: Felipe Azevedo Ribeiro\nDocente: José Marivaldo de Aragão Silva\nDisciplina: Fundamentos de Programação de Sistemas\n\nVersão: $version" 15 70
+dialog  --msgbox   "Bem vindo(a) ao portal PokéMothim CLI!\nDesenvolvido por: Felipe Ribeiro\nDocente: José Aragão\nDisciplina: Fundamentos de Programação de Sistemas\n\nVersão: $version" 15 70
 
 decision=$(dialog --menu "Deseja acessar o portal?" 12 45 25 1 "Sim" 2 "Não" --output-fd 1)
 
