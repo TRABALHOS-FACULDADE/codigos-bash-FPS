@@ -6,7 +6,7 @@
 
 version="1.0.0"
 
-dialog  --msgbox   "Bem vindo(a)s ao portal PokéMothim CLI!\nDesenvolvido por: Felipe Azevedo Ribeiro\nVersão: $version" 10 70
+dialog  --msgbox   "Bem vindo(a) ao portal PokéMothim CLI!\nDesenvolvido por: Felipe Azevedo Ribeiro\nDocente: José Marivaldo de Aragão Silva\nDisciplina: Fundamentos de Programação de Sistemas\n\nVersão: $version" 15 70
 
 decision=$(dialog --menu "Deseja acessar o portal?" 12 45 25 1 "Sim" 2 "Não" --output-fd 1)
 
@@ -61,7 +61,7 @@ extrair_dados() {
 
     rm temp.txt
 
-    dialog --msgbox  "Arquivo de texto com informações sobre $opcaoSelecionada foi gerado com sucesso!" 10 25
+    dialog --msgbox  "Arquivo de texto com informações sobre $opcaoSelecionada foi gerado com sucesso!\n\nNome do arquivo: $arquivo_saida" 15 30
     clear
 }
 
